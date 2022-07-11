@@ -1,0 +1,15 @@
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\obj\Debug\net6.0\StacksandQueues.csproj.AssemblyReference.cache
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\obj\Debug\net6.0\StacksandQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\obj\Debug\net6.0\StacksandQueues.AssemblyInfoInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\obj\Debug\net6.0\StacksandQueues.AssemblyInfo.cs
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\obj\Debug\net6.0\StacksandQueues.csproj.CoreCompileInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\bin\Debug\net6.0\StacksandQueues.exe
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\bin\Debug\net6.0\StacksandQueues.deps.json
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\bin\Debug\net6.0\StacksandQueues.runtimeconfig.json
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\bin\Debug\net6.0\StacksandQueues.dll
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\bin\Debug\net6.0\StacksandQueues.pdb
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\obj\Debug\net6.0\StacksandQueues.dll
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\obj\Debug\net6.0\refint\StacksandQueues.dll
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\obj\Debug\net6.0\StacksandQueues.pdb
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\obj\Debug\net6.0\StacksandQueues.genruntimeconfig.cache
+C:\Users\kirstinmegga.ramos\source\repos\StacksandQueues\StacksandQueues\obj\Debug\net6.0\ref\StacksandQueues.dll
