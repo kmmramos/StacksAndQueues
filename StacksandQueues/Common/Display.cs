@@ -29,5 +29,11 @@ namespace StacksandQueues.Common
             RemoveMinBrackets removeMinBrackets = new RemoveMinBrackets();
             Console.WriteLine(removeMinBrackets.Remove(str));
         }
+
+        public static void Problem3()
+        {
+            ImplementQueueWithStack implementQueueWithStack = new ImplementQueueWithStack();
+            implementQueueWithStack.Main();
+        }
     }
 }

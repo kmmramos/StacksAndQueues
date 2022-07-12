@@ -14,7 +14,7 @@ namespace StacksAndQueues
                 Console.WriteLine("Select from the options below:");
                 Console.WriteLine("[1] Valid Parenthesis");
                 Console.WriteLine("[2] Remove Minimum Brackets");
-                //Console.WriteLine("[3] Flatten Multi-Level Linked List");
+                Console.WriteLine("[3] Implement Queues with Stacks");
                 //Console.WriteLine("[4] Cycle Detection in Linked List");
                 Console.WriteLine("Enter action:");
                 input = Console.ReadLine();
@@ -37,9 +37,9 @@ namespace StacksAndQueues
                     case 2:
                         Display.Problem2();
                         break;
-                    //case 3:
-                    //    Display.Problem3();
-                    //    break;
+                    case 3:
+                        Display.Problem3();
+                        break;
                     //case 4:
                     //    Display.Problem4();
                     //    break;
